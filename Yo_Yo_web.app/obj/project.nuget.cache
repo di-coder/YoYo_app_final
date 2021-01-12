@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y3hkS4TqmKs8LIi/S0Yy3RXsve5cTMaduNbJo1eLloR9N+7+C2fQhB0jipefxVefa/H9IgLGC1l0wrBuVa4t6w==",
+  "success": true,
+  "projectFilePath": "E:\\Yo_Yo_web.app\\Yo_Yo_web.app\\Yo_Yo_web.app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DINESH\\.nuget\\packages\\documentformat.openxml\\2.12.0\\documentformat.openxml.2.12.0.nupkg.sha512",
+    "C:\\Users\\DINESH\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\DINESH\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

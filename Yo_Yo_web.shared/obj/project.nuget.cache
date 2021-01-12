@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvkLG6CNmXxR7qI4TQ1yvOdI2w8ZJXmJoR9AVDWR3tuWYp3G9Mqve6dSn1En6eHivuq1N54eUjwG42sZJoIXpQ==",
+  "success": true,
+  "projectFilePath": "E:\\Yo_Yo_web.app\\Yo_Yo_web.shared\\Yo_Yo_web.shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DINESH\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DINESH\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

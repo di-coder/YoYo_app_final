@@ -1,0 +1,64 @@
+﻿
+@page "/"
+@inject IJSRuntime JSRuntime
+
+<style type="text/css">
+</style>
+
+
+<body translate="no">
+    <div class="ctn">
+        <h3 class="title">YoYo Test</h3>
+        <button class="btn-danger" @onclick="StartFunction">Start Test</button><br /><br />
+
+        <canvas height = "100"  width = "200"  padding-top= "200" id="counter">
+        </canvas>
+
+        <div class="container">
+            <div class="shuttle">
+                <p>NEXT SHUTTLE</p><p id="next_shuttle">0:00 s</p>
+            </div><p class="vl"></p>
+            <div class="time">
+                <p>TOTAL TIME</p><p id="total_time">0:00 m</p>
+            </div><p class="v2"></p>
+            <div class="distance">
+                <p>TOTAL DISTANCE</p><p id="total_distance">0 m</p>
+            </div>
+        </div>
+        <div class="tbl">
+
+            @if (Users == null)
+            {
+                <p><em>Loading...</em></p>
+            }
+            else
+            {
+                <table class="table" id="tbl">
+                    <thead>
+                        <tr>
+                            <th>Track</th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var user in Users)
+                        {
+                           
+                        <tr>
+                            <td id=@user.Name>@user.Name</td>
+                            <td id="@(user.Id+user.Id)"><button @onclick="() => CountFunction(user)" class="btn-warning" id=@user.Id>Warn</button></td>
+                            <td id="@(user.Id+user.Id)"><button class="btn-danger" id=@user.Id @onclick="() => EndFunction(user)">Stop</button></td>
+                            <td><button class="btn-danger edit"  id=@user.Id @onclick="() => EditUser(user)">Edit</button></td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+        </div>
+    </div>
+</body>
+
+

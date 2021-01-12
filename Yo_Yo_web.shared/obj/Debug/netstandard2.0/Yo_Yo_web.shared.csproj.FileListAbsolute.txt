@@ -1,0 +1,9 @@
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\bin\Debug\netstandard2.0\Yo_Yo_web.shared.deps.json
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\bin\Debug\netstandard2.0\Yo_Yo_web.shared.dll
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\bin\Debug\netstandard2.0\Yo_Yo_web.shared.pdb
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\obj\Debug\netstandard2.0\Yo_Yo_web.shared.csprojAssemblyReference.cache
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\obj\Debug\netstandard2.0\Yo_Yo_web.shared.AssemblyInfoInputs.cache
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\obj\Debug\netstandard2.0\Yo_Yo_web.shared.AssemblyInfo.cs
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\obj\Debug\netstandard2.0\Yo_Yo_web.shared.csproj.CoreCompileInputs.cache
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\obj\Debug\netstandard2.0\Yo_Yo_web.shared.dll
+E:\Yo_Yo_web.app\Yo_Yo_web.shared\obj\Debug\netstandard2.0\Yo_Yo_web.shared.pdb

@@ -1,0 +1,71 @@
+.ctn{
+    position:absolute;
+    padding-left:20px;
+}
+.title{
+    padding-top:20px;
+    padding-left:46px;
+
+}
+.shuttle {
+    width: 40px;
+    font: 12px monospace;
+}
+.time {
+    width: 40px;
+    font: 12px monospace;
+}
+.distance {
+
+    width: 40px;
+    font: 12px monospace;
+}
+.vl {
+    position:absolute;
+    border-left: 1px solid black;
+    height: 60px;
+    top:265px;
+    left:75px;
+}
+.v2 {
+    position: absolute;
+    border-left: 1px solid black;
+    height: 60px;
+    top: 265px;
+    left: 140px;
+}
+
+.time{
+    position:absolute;
+    top:270px;
+    left:90px;
+}
+.shuttle {
+    position: absolute;
+    top: 270px;
+    left: 20px;
+}
+.distance {
+    position: absolute;
+    top: 270px;
+    left: 155px;
+}
+.tbl{
+    position:absolute;
+    top:350px;
+    left:40px;
+    width:500px;
+    visibility:hidden;
+
+}
+.container{
+    position:absolute;
+    top:0px;
+    left:25px;
+}
+.edit{
+    visibility:hidden;
+}
+.save {
+    visibility: hidden;
+}
